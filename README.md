@@ -1,5 +1,11 @@
 # CrowdCounter
-A ML model that counts the number of people present in a picture
+A Deep Learning based solution that can count the number of peoples present in the picture.
+
+## Applications
+
+ - This can be used in places where we want a hard limit on number peoples. We can use this kind of model to count the number of peoples, and then do something with it
+ - In crowded places like open markets, we can use it to count the peoples
+ - In applying proper social distancing 
 
 ## How run your own model
 
